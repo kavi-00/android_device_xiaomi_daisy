@@ -53,7 +53,7 @@ TARGET_TAP_TO_WAKE_NODE := "/proc/touchpanel/wakeup_gesture"
 TARGET_VENDOR_PROP += $(DEVICE_PATH)/vendor.prop
 
 # Security Patch Level
-VENDOR_SECURITY_PATCH := 2021-07-01
+VENDOR_SECURITY_PATCH := 2024-10-01
 
 # Inherit the proprietary files
 include vendor/xiaomi/daisy/BoardConfigVendor.mk
