@@ -1,9 +1,9 @@
 #
-# Copyright (C) 2023 The LineageOS Project
+# Copyright (C) 2023 The DerpfestOS Project
 #
 # SPDX-License-Identifier: Apache-2.0
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_daisy.mk \
-    $(LOCAL_DIR)/lineage_sakura.mk
+    $(LOCAL_DIR)/derp_daisy.mk \
+    $(LOCAL_DIR)/derp_sakura.mk
